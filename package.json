@@ -5,6 +5,7 @@
   "type": "module",
   "license": "MIT",
   "author": "Naitzz12",
+  "repository": "https://github.com/Naitzz12/weather-app.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

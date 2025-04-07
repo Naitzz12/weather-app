@@ -39,7 +39,7 @@ function App() {
             {" "}
             Weather{" "}
           </h1>
-          <a href="">
+          <a href="https://github.com/Naitzz12/weather-app.git">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width={50}
