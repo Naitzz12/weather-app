@@ -21,6 +21,7 @@ Untuk meng install semua module yang dibutuhkan oleh project tersebut
 ```bash
 VITE_KEY=""; <-- Masukan apikey yang kalian dapatkan di [https://www.weatherapi.com/]
 ```
+Ganti file .env.example ke .env
 
 ### Jalankan Web nya
 
