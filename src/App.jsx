@@ -96,8 +96,8 @@ function App() {
               <div className={`h-1 overflow-hidden ${readmore ? "h-96" : ""}`}>
                 <div>
                   <div className="flex justify-between items-center mx-3.5">
-                    <p className="text-6xl">{weather.current.temp_f}°F</p>
-                    <p className="text-6xl">{weather.current.temp_c}°C</p>
+                    <p className="text-5xl">{weather.current.temp_f}°F</p>
+                    <p className="text-5xl">{weather.current.temp_c}°C</p>
                   </div>
                 </div>
 
