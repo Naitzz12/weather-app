@@ -19,7 +19,7 @@ Untuk meng install semua module yang dibutuhkan oleh project tersebut
 ## Masukan apikey ke environment
 
 ```bash
-VITE_KEY=""; <-- Masukan apikey yang kalian dapatkan di [https://www.weatherapi.com/]
+VITE_KEY="" <-- Masukan apikey yang kalian dapatkan di [https://www.weatherapi.com/]
 ```
 Ganti file .env.example ke .env
 
