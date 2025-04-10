@@ -59,10 +59,6 @@ function WeatherInfo() {
                   <div className="flex justify-end items-end flex-col text-white mr-3">
                     <p>Condition : {cuaca.day.condition.text}</p>
                     <p>Date : {cuaca.date}</p>
-                    {/* <p className="text-[13px]">
-                      Latitude : {cuaca.location.lat} | Longtitude :{" "}
-                      {cuaca.location.lon}
-                    </p> */}
                   </div>
                 </div>
 

@@ -5,7 +5,7 @@ function App() {
     <>
       <div>
         <nav className=" flex justify-around items-center pt-7 absolute top-0 left-0 right-0 z-10">
-          <h1 className="text-3xl text-white font-bold [text-shadow:_5px_5px_2px_#0c8ce9]">
+          <h1 className="relative text-3xl text-white font-bold after:content-['BETA'] after:absolute after:-right-12 after:top-1 after:text-white after:[text-shadow:none] after:text-sm">
             {" "}
             Weather{" "}
           </h1>
